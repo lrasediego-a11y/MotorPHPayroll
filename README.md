@@ -12,4 +12,4 @@ It calculates the total hours worked per cutoff (strictly observing the 8:00 AM 
 * **Kizia Aguana**: Describe contribution, e.g., Managed the NetBeans IDE setup, code compilation, and GitHub repository commits.
 
 ## Project Plan Link
-[Click here to view our Project Plan](INSERT_YOUR_LINK_HERE)
+[Click here to view our Project Plan](https://docs.google.com/spreadsheets/d/1CAsAbLZ1wO2TNNh4f1N_fC5uKjpsBpj1gktzmOWtsic/edit?usp=sharing)
